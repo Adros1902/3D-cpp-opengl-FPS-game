@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cargo wooden crates
+* source:	https://sketchfab.com/3d-models/cargo-wooden-crates-a4a7fd18f87445c0ba043b686b672761
+* author:	MechanicRU (https://sketchfab.com/OlegBochkarevRU)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cargo wooden crates" (https://sketchfab.com/3d-models/cargo-wooden-crates-a4a7fd18f87445c0ba043b686b672761) by MechanicRU (https://sketchfab.com/OlegBochkarevRU) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
